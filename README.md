@@ -31,4 +31,4 @@ Unknown数据补充说明：
 * marco f1 score是每一类算出的 f1 score的算术平均。\
 
 以四类分类为例：每一类以oneVSall计算各类的f1 score\
-![image]()
+![image](https://raw.githubusercontent.com/liangxiao940517/Astronomical_Data_Mining/master/Image_folder/%E8%AF%84%E4%BC%B0%E6%8C%87%E6%A0%87.png)
