@@ -33,3 +33,7 @@ Unknown数据补充说明：
 
 以四类分类为例：每一类以oneVSall计算各类的f1 score
 ![image](https://raw.githubusercontent.com/liangxiao940517/Astronomical_Data_Mining/master/Image_folder/%E8%AF%84%E4%BC%B0%E6%8C%87%E6%A0%87.png)
+
+# 提交结果说明
+参赛结果以csv文件上传，用逗号分隔，且不用包含字段名。文件共两列，第一列为波段文件id号，与索引文件中的一致。第二列为分类信息，为galaxy，star，qso和unknown中的一种。样例如下：
+![image](https://raw.githubusercontent.com/liangxiao940517/Astronomical_Data_Mining/master/Image_folder/%E6%8F%90%E4%BA%A4%E7%BB%93%E6%9E%9C%E8%AF%B4%E6%98%8E.png)
